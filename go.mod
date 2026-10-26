@@ -3,7 +3,7 @@ module github.com/aurimasniekis/go-brother-scan-to-network-server
 go 1.27.2
 
 require (
-	github.com/gosnmp/gosnmp v1.45.0
+	github.com/gosnmp/gosnmp v1.46.0
 	github.com/hirochachacha/go-smb2 v1.1.0
 	github.com/jlaffaye/ftp v0.2.4
 	github.com/minio/minio-go/v7 v7.4.1
